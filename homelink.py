@@ -7,7 +7,7 @@
 ########################################################################
 
 '''
-Author: qinan(qinan@baidu.com)
+Author: anqin.qin@gmail.com
 '''
 
 import os
