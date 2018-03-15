@@ -2,7 +2,7 @@
 #-*-coding:utf8*-
 ########################################################################
 #
-# Copyright (c) for Homelnk authors, Inc. All Rights Reserved
+# Copyright (c) for Homelink authors, Inc. All Rights Reserved
 #
 ########################################################################
 
